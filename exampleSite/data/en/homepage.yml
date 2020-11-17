@@ -32,7 +32,7 @@ experience:
   enable: true
   title: EXPERIENCE
   experience_list:
-  - name: Client Services !!!
+  - name: Client Services
     company: Oracle
     duration: 2018- Present
     content: |-
