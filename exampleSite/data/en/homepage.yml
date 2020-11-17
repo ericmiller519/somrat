@@ -20,11 +20,10 @@ about:
   enable: true
   image: ''
   title: KNOW MORE <br> ABOUT ME
-  content: "It's Somrat, Professional Web Developer. I love to write code, it's my
-    passion. I am here to help you, i am here to design your web page. i can help
-    you to describe yourself in the best way.<br>No matter how difficult your web
-    page is, i will find an easy way and complete your work anyway. Stay connect with
-    me............\U0001F60A"
+  content: "It's Eric Miller , Professional Web Developer. I love to write code, it's
+    my passion. I am here to help you I  can help you to describe yourself in the
+    best way.<br>No matter how difficult your web page is, I will find an easy way
+    and complete your work anyway. Stay connect with me............\U0001F60A"
   button:
     enable: true
     label: DOWNLOAD MY CV
