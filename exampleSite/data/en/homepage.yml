@@ -2,6 +2,7 @@
 hero:
   title: I'm Eric Miller
   occupations:
+  - Business Developer
   - Web Developer
   slider_image:
   - images/slider/slider-1.jpg
