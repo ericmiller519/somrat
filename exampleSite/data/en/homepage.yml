@@ -39,7 +39,7 @@ experience:
       like Personal, Business, Blog, E-commerce etc.
 skill:
   enable: true
-  title: SKILL
+  title: Skills
   skill_list:
   - name: Web Development
     percentage: 98%
