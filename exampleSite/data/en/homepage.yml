@@ -35,11 +35,7 @@ experience:
   - name: Client Services
     company: Oracle
     duration: 2018- Present
-    content: |-
-      Provides prompt and professional responses to requests for computing and technology support. This includes making contact with customers via phone or e-mail and resolving technical incidents by using remote tools if necessary.
-      <BR>Assist with developing instructional content for training and training preparations for new hires.
-      <Br>
-      * Proven ability to interact in a courteous and professional manner with all levels of administrators, colleagues, and staff; also possess the ability to effectively manage
+    content: "\n"
 skill:
   enable: true
   title: Skills
