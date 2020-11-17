@@ -32,18 +32,13 @@ experience:
   enable: true
   title: EXPERIENCE
   experience_list:
-  - name: 'Client Services '
+  - name: Client Services !!!
     company: Oracle
     duration: 2018- Present
     content: |-
-      Provided prompt and professional responses to requests for computing and technology support. This includes making contact with customers via phone or e-mail and resolving technical incidents by using remote tools if necessary.
-
+      Provides prompt and professional responses to requests for computing and technology support. This includes making contact with customers via phone or e-mail and resolving technical incidents by using remote tools if necessary.
       *Assist with developing instructional content for training and training preparations for new hires.
       * Proven ability to interact in a courteous and professional manner with all levels of administrators, colleagues, and staff; also possess the ability to effectively manage
-  - name: ''
-    company: ''
-    duration: ''
-    content: ''
 skill:
   enable: true
   title: Skills
