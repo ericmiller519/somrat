@@ -67,7 +67,7 @@ service:
   - name: Mobile App Development
     image: images/icons/mobile-app.png
 call_to_action:
-  enable: true
+  enable: false
   bg_image: images/backgrounds/need-service.jpg
   title: NEED A SERVICE?
   button:
