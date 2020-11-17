@@ -134,7 +134,7 @@ testimonial:
   title: ''
   testimonial_slider: []
 funfacts:
-  enable: true
+  enable: false
   funfacts_list:
   - name: HANDS TO WORK
     image: images/icons/works.png
