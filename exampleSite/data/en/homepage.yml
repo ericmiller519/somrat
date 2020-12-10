@@ -27,7 +27,7 @@ about:
   button:
     enable: true
     label: DOWNLOAD MY CV
-    link: "#"
+    link: https://www.linkedin.com/in/ericmiller89
 experience:
   enable: true
   title: EXPERIENCE
