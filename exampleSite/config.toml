@@ -4,7 +4,7 @@ theme = "Eric Miller"
 title = "Eric Miller"
 [Languages.en]
 contentDir = "content/english"
-copyright = "Copyright &copy; 2020 a hugo theme by [somrat](https://somrat.netlify.com)"
+copyright = "Miller Enterprise LLC"
 home = "Home"
 languageCode = "en-us"
 languageName = "En"
